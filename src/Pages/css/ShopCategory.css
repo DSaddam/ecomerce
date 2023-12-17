@@ -1,0 +1,12 @@
+.shop-category>img {
+    width: 100%;
+}
+.shopcategory-products {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 50px;
+    gap: 30px;
+}
+.shopcategory-indexSort {
+    margin: 25px 24px;
+}
